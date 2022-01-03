@@ -1,0 +1,7 @@
+h2.to-update, span.to-delete {
+    cursor: pointer;
+}
+
+.video-card:hover {
+    border: 1px solid #333;    
+}
